@@ -7,6 +7,7 @@
         <NavbarCollapse :isShowMenu="isShowMenu">
           <NavbarLink is-active>Beranda</NavbarLink>
           <NavbarLink>Servis</NavbarLink>
+          <NavbarLink>Galeri</NavbarLink>
           <NavbarLink>Tentang</NavbarLink>
           <NavbarLink>Kontak</NavbarLink>
         </NavbarCollapse>

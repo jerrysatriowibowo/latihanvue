@@ -3,20 +3,12 @@ import { Carousel } from 'flowbite-vue'
 import { Input } from 'flowbite-vue'
 const pictures = [
   {
-    'src': './picture/helm.jpg',
-    'alt': 'Picture 1',
-  },
-  {
-    'src': './picture/helm2.jpg',
+    'src': './picture/helm8.jpg',
     'alt': 'Picture 2',
   },
   {
-    'src': './picture/helm3.jpg',
+    'src': './picture/helm7.webp',
     'alt': 'Picture 3',
-  },
-  {
-    'src': './picture/helm4.jpg',
-    'alt': 'Picture 4',
   },
   {
     'src': './picture/helm6.jpg',
