@@ -18,7 +18,7 @@ const products = [
     name: 'AGV Pista GP RR',
     fake: 'Rp. 29.190.000',
     price: 'Rp. 28.490.000',
-    imageSrc: './public/picture/agv.webp',
+    imageSrc: './picture/agv.webp',
     imageAlt: 'Tall slender porcelain bottle with natural clay textured body and cork stopper.',
   },
   {
@@ -26,7 +26,7 @@ const products = [
     name: 'New KYT R2R',
     fake: 'Rp. 2.490.000',
     price: 'Rp. 2.349.000',
-    imageSrc: './public/picture/agv.webp',
+    imageSrc: './picture/agv.webp',
     imageAlt: 'Olive drab green insulated bottle with flared screw lid and flat top.',
   },
   {
@@ -34,7 +34,7 @@ const products = [
     name: 'KYT TT Course',
     fake: 'Rp. 1.520.000',
     price: 'Rp. 1.449.000',
-    imageSrc: './public/picture/agv.webp',
+    imageSrc: './picture/agv.webp',
     imageAlt: 'Person using a pen to cross a task off a productivity paper card.',
   },
   {
@@ -42,7 +42,7 @@ const products = [
     name: 'New Shoe Helmet',
     fake: 'Rp. 14.600.000',
     price: 'Rp. 14.399.000',
-    imageSrc: './public/picture/agv.webp',
+    imageSrc: './picture/agv.webp',
     imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
   },
 ]
