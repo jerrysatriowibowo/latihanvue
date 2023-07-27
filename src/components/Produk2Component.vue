@@ -17,7 +17,7 @@ const products = [
     name: 'AGV KSV3',
     fake: 'Rp. 3.299.000',
     price: 'Rp. 2.990.000',
-    imageSrc: './picture/agv.webp',
+    imageSrc: './public/picture/agv.webp',
     imageAlt: 'Tall slender porcelain bottle with natural clay textured body and cork stopper.',
   },
   {
@@ -25,7 +25,7 @@ const products = [
     name: 'New INK Helmet',
     fake: 'Rp. 499.000',
     price: 'Rp. 399.000',
-    imageSrc: './picture/agv.webp',
+    imageSrc: './public/picture/agv.webp',
     imageAlt: 'Olive drab green insulated bottle with flared screw lid and flat top.',
   },
   {
@@ -33,7 +33,7 @@ const products = [
     name: 'Helm Bogo',
     fake: 'Rp. 149.000',
     price: 'Rp. 120.000',
-    imageSrc: './picture/agv.webp',
+    imageSrc: './public/picture/agv.webp',
     imageAlt: 'Person using a pen to cross a task off a productivity paper card.',
   },
   {
@@ -41,7 +41,7 @@ const products = [
     name: 'New KYT Helmet',
     fake: 'Rp. 749.000',
     price: 'Rp. 699.000',
-    imageSrc: './picture/agv.webp',
+    imageSrc: './public/picture/agv.webp',
     imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
   },
 ]
